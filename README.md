@@ -225,8 +225,6 @@ Profile Agent
 
 SYSTEM ARCHITECTURE:
 
-<!-- Uploading "WhatsApp Image 2026-08-08 at 10.55.24 PM.jpeg"... -->
-
 
 ## 🚀 Installation
 
