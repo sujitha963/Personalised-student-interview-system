@@ -225,7 +225,21 @@ Profile Agent
 
 SYSTEM ARCHITECTURE:
 
+
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/fe683db8-faee-4fdb-8c71-583b1d7d5b20" />
+
+
+DASHBOARD:
+
+<img width="1917" height="906" alt="Image" src="https://github.com/user-attachments/assets/78341223-0939-402e-bd55-82a0f2ac0674" />
+
+
+<img width="1907" height="907" alt="Image" src="https://github.com/user-attachments/assets/d497f1fa-c413-43b9-8020-1c2ebd12ccaa" />
+
+
+<img width="1918" height="902" alt="Image" src="https://github.com/user-attachments/assets/e0e8ba81-c841-4220-a95c-af0a81d1e695" />
+
+
 ## 🚀 Installation
 
 ```bash
