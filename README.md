@@ -225,7 +225,7 @@ Profile Agent
 
 SYSTEM ARCHITECTURE:
 
-
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/fe683db8-faee-4fdb-8c71-583b1d7d5b20" />
 ## 🚀 Installation
 
 ```bash
