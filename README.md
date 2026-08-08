@@ -232,3 +232,7 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 python -m streamlit run app.py
+
+SYSTEM ARCHITECTURE:
+
+<!-- Uploading "WhatsApp Image 2026-08-08 at 10.55.24 PM.jpeg"... -->
