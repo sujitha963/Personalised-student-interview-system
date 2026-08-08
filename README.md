@@ -181,3 +181,54 @@ personalised-student-interview/
   first run. Delete it any time to reset all data.
 - All AI calls go through the single `ai_service.py` module - nothing else
   in the app talks to an LLM directly.
+
+# Personalized Student Interview System
+
+## 🤖 Agentic AI
+
+AI-powered personalized interview preparation and assessment system.
+
+## ✨ Features
+
+- Student profile analysis
+- Personalized interview planning
+- Adaptive interview questions
+- Answer evaluation
+- Automated scoring
+- Pass/Fail evaluation
+- Skill-gap detection
+- Personalized practice
+- Reassessment
+- Performance tracking
+- Improvement loop
+
+## 🧠 Agentic AI Architecture
+
+Profile Agent
+→ Interview Planner
+→ Interviewer
+→ Answer Evaluator
+→ Scoring
+→ Pass/Fail
+→ Skill Gap
+→ Practice
+→ Reassessment
+
+## 🛠️ Technologies
+
+- Python
+- Streamlit
+- SQLite
+- Anthropic API
+- Pandas
+- Plotly
+
+## 🚀 Installation
+
+```bash
+git clone <repository-url>
+cd Personalised-student-interview-system
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+python -m streamlit run app.py
