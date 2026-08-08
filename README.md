@@ -174,13 +174,6 @@ personalised-student-interview/
 
 ---
 
-## 6. Notes
-
-- No Docker, no Node.js, no external services required for Demo Mode.
-- The database file `interview_system.db` is created next to `app.py` on
-  first run. Delete it any time to reset all data.
-- All AI calls go through the single `ai_service.py` module - nothing else
-  in the app talks to an LLM directly.
 
 # Personalized Student Interview System
 
