@@ -1,0 +1,26 @@
+Alex Kumar
+B.Tech in Computer Science, XYZ University (Expected 2027)
+
+SKILLS
+Python, SQL, Machine Learning, Pandas, AWS, Git
+
+PROJECTS
+Built a customer churn prediction model using Python and scikit-learn, improving
+retention targeting accuracy by 18% over the baseline heuristic.
+
+Developed a data pipeline with SQL and Pandas to automate weekly sales reporting,
+reducing manual reporting time from 4 hours to 15 minutes.
+
+Designed and deployed a small AWS-hosted dashboard to visualise model performance
+metrics for a college machine learning club project.
+
+EXPERIENCE
+Data Science Intern, Summer Analytics Program
+- Worked with a team of 4 to clean and analyse a large transactional dataset.
+- Presented findings to a non-technical audience during the program showcase.
+
+EDUCATION
+B.Tech in Computer Science, XYZ University
+
+CAREER GOAL
+To become a data scientist working on real-world machine learning products.
